@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  FlexLayoutProactice
+//  FlexLayoutPractice
 //
 //  Created by juhyang on 10/3/24.
 //

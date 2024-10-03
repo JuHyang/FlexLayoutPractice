@@ -1,13 +1,13 @@
 //
-//  FlexLayoutProacticeUITestsLaunchTests.swift
-//  FlexLayoutProacticeUITests
+//  FlexLayoutPracticeUITestsLaunchTests.swift
+//  FlexLayoutPracticeUITests
 //
 //  Created by juhyang on 10/3/24.
 //
 
 import XCTest
 
-final class FlexLayoutProacticeUITestsLaunchTests: XCTestCase {
+final class FlexLayoutPracticeUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

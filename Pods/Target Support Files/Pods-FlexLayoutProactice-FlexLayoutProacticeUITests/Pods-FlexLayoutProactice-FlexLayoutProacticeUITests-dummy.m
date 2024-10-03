@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-@interface PodsDummy_Pods_FlexLayoutProactice_FlexLayoutProacticeUITests : NSObject
+@interface PodsDummy_Pods_FlexLayoutPractice_FlexLayoutPracticeUITests : NSObject
 @end
-@implementation PodsDummy_Pods_FlexLayoutProactice_FlexLayoutProacticeUITests
+@implementation PodsDummy_Pods_FlexLayoutPractice_FlexLayoutPracticeUITests
 @end

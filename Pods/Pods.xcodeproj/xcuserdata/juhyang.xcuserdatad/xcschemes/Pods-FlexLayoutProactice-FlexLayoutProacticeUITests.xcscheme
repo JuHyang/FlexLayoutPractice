@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33F9B90F3212224A1F836A2E443DE06F"
-               BuildableName = "Pods_FlexLayoutProactice_FlexLayoutProacticeUITests.framework"
-               BlueprintName = "Pods-FlexLayoutProactice-FlexLayoutProacticeUITests"
+               BuildableName = "Pods_FlexLayoutPractice_FlexLayoutPracticeUITests.framework"
+               BlueprintName = "Pods-FlexLayoutPractice-FlexLayoutPracticeUITests"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>

@@ -1,5 +1,5 @@
-framework module Pods_FlexLayoutProacticeTests {
-  umbrella header "Pods-FlexLayoutProacticeTests-umbrella.h"
+framework module Pods_FlexLayoutPracticeTests {
+  umbrella header "Pods-FlexLayoutPracticeTests-umbrella.h"
 
   export *
   module * { export * }

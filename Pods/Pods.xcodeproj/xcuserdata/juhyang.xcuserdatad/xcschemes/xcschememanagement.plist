@@ -18,24 +18,39 @@
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
-		<key>Pods-FlexLayoutProactice-FlexLayoutProacticeUITests.xcscheme</key>
+		<key>Pods-FlexLayoutPractice-FlexLayoutPracticeUITests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>3</integer>
 		</dict>
-		<key>Pods-FlexLayoutProactice.xcscheme</key>
+		<key>Pods-FlexLayoutPractice.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
-		<key>Pods-FlexLayoutProacticeTests.xcscheme</key>
+		<key>Pods-FlexLayoutPracticeTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>Pods-FlexLayoutProactice-FlexLayoutProacticeUITests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Pods-FlexLayoutProactice.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Pods-FlexLayoutProacticeTests.xcscheme</key>
+		<dict>
 			<key>orderHint</key>
 			<integer>4</integer>
 		</dict>

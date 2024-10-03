@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_FlexLayoutProacticeVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_FlexLayoutProacticeVersionString[];
+FOUNDATION_EXPORT double Pods_FlexLayoutPracticeVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_FlexLayoutPracticeVersionString[];
 

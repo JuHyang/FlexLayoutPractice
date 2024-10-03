@@ -12,9 +12,9 @@
 		000197312CAEE384007FF404 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 000197302CAEE384007FF404 /* SceneDelegate.swift */; };
 		000197332CAEE7CC007FF404 /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 000197322CAEE7CC007FF404 /* TestView.swift */; };
 		0001977B2CAEF8D9007FF404 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0001977A2CAEF8D9007FF404 /* LaunchScreen.storyboard */; };
-		13EA013E27617C27A26FA967 /* Pods_FlexLayoutProactice.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D92DE8A279995D3963427EB /* Pods_FlexLayoutProactice.framework */; };
-		6407C4D35DCE419FBC84D72D /* Pods_FlexLayoutProactice_FlexLayoutProacticeUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3BB8ECCA7733B17A85538E73 /* Pods_FlexLayoutProactice_FlexLayoutProacticeUITests.framework */; };
-		CEDCDF19786CBAA407ED71C2 /* Pods_FlexLayoutProacticeTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F8359120E1E693B509336472 /* Pods_FlexLayoutProacticeTests.framework */; };
+		13EA013E27617C27A26FA967 /* Pods_FlexLayoutPractice.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D92DE8A279995D3963427EB /* Pods_FlexLayoutPractice.framework */; };
+		6407C4D35DCE419FBC84D72D /* Pods_FlexLayoutPractice_FlexLayoutPracticeUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3BB8ECCA7733B17A85538E73 /* Pods_FlexLayoutPractice_FlexLayoutPracticeUITests.framework */; };
+		CEDCDF19786CBAA407ED71C2 /* Pods_FlexLayoutPracticeTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F8359120E1E693B509336472 /* Pods_FlexLayoutPracticeTests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -23,14 +23,14 @@
 			containerPortal = 000A54BF2CAED94300FBC1AF /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 000A54C62CAED94300FBC1AF;
-			remoteInfo = FlexLayoutProactice;
+			remoteInfo = FlexLayoutPractice;
 		};
 		000A54E22CAED94400FBC1AF /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 000A54BF2CAED94300FBC1AF /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 000A54C62CAED94300FBC1AF;
-			remoteInfo = FlexLayoutProactice;
+			remoteInfo = FlexLayoutPractice;
 		};
 /* End PBXContainerItemProxy section */
 
@@ -41,18 +41,18 @@
 		000197322CAEE7CC007FF404 /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
 		000197752CAEF5C0007FF404 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		000197792CAEF8D9007FF404 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		000A54C72CAED94300FBC1AF /* FlexLayoutProactice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlexLayoutProactice.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		000A54D72CAED94400FBC1AF /* FlexLayoutProacticeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlexLayoutProacticeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		000A54E12CAED94400FBC1AF /* FlexLayoutProacticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlexLayoutProacticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D92DE8A279995D3963427EB /* Pods_FlexLayoutProactice.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FlexLayoutProactice.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		3BB8ECCA7733B17A85538E73 /* Pods_FlexLayoutProactice_FlexLayoutProacticeUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FlexLayoutProactice_FlexLayoutProacticeUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4A30754CA6E1B6130E3BD607 /* Pods-FlexLayoutProactice-FlexLayoutProacticeUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlexLayoutProactice-FlexLayoutProacticeUITests.debug.xcconfig"; path = "Target Support Files/Pods-FlexLayoutProactice-FlexLayoutProacticeUITests/Pods-FlexLayoutProactice-FlexLayoutProacticeUITests.debug.xcconfig"; sourceTree = "<group>"; };
-		676265ED8FECAED2193B6C12 /* Pods-FlexLayoutProactice.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlexLayoutProactice.debug.xcconfig"; path = "Target Support Files/Pods-FlexLayoutProactice/Pods-FlexLayoutProactice.debug.xcconfig"; sourceTree = "<group>"; };
-		8A976FB054C1FAAB0ADA591D /* Pods-FlexLayoutProacticeTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlexLayoutProacticeTests.debug.xcconfig"; path = "Target Support Files/Pods-FlexLayoutProacticeTests/Pods-FlexLayoutProacticeTests.debug.xcconfig"; sourceTree = "<group>"; };
-		C035E727249D3966FB5F4BFE /* Pods-FlexLayoutProacticeTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlexLayoutProacticeTests.release.xcconfig"; path = "Target Support Files/Pods-FlexLayoutProacticeTests/Pods-FlexLayoutProacticeTests.release.xcconfig"; sourceTree = "<group>"; };
-		C4EDECE98EB0915074899B2F /* Pods-FlexLayoutProactice.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlexLayoutProactice.release.xcconfig"; path = "Target Support Files/Pods-FlexLayoutProactice/Pods-FlexLayoutProactice.release.xcconfig"; sourceTree = "<group>"; };
-		C996D9B4A80BF63BDAC314E2 /* Pods-FlexLayoutProactice-FlexLayoutProacticeUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlexLayoutProactice-FlexLayoutProacticeUITests.release.xcconfig"; path = "Target Support Files/Pods-FlexLayoutProactice-FlexLayoutProacticeUITests/Pods-FlexLayoutProactice-FlexLayoutProacticeUITests.release.xcconfig"; sourceTree = "<group>"; };
-		F8359120E1E693B509336472 /* Pods_FlexLayoutProacticeTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FlexLayoutProacticeTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		000A54C72CAED94300FBC1AF /* FlexLayoutPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlexLayoutPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		000A54D72CAED94400FBC1AF /* FlexLayoutPracticeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlexLayoutPracticeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		000A54E12CAED94400FBC1AF /* FlexLayoutPracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlexLayoutPracticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D92DE8A279995D3963427EB /* Pods_FlexLayoutPractice.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FlexLayoutPractice.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3BB8ECCA7733B17A85538E73 /* Pods_FlexLayoutPractice_FlexLayoutPracticeUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FlexLayoutPractice_FlexLayoutPracticeUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4A30754CA6E1B6130E3BD607 /* Pods-FlexLayoutPractice-FlexLayoutPracticeUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlexLayoutPractice-FlexLayoutPracticeUITests.debug.xcconfig"; path = "Target Support Files/Pods-FlexLayoutPractice-FlexLayoutPracticeUITests/Pods-FlexLayoutPractice-FlexLayoutPracticeUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		676265ED8FECAED2193B6C12 /* Pods-FlexLayoutPractice.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlexLayoutPractice.debug.xcconfig"; path = "Target Support Files/Pods-FlexLayoutPractice/Pods-FlexLayoutPractice.debug.xcconfig"; sourceTree = "<group>"; };
+		8A976FB054C1FAAB0ADA591D /* Pods-FlexLayoutPracticeTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlexLayoutPracticeTests.debug.xcconfig"; path = "Target Support Files/Pods-FlexLayoutPracticeTests/Pods-FlexLayoutPracticeTests.debug.xcconfig"; sourceTree = "<group>"; };
+		C035E727249D3966FB5F4BFE /* Pods-FlexLayoutPracticeTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlexLayoutPracticeTests.release.xcconfig"; path = "Target Support Files/Pods-FlexLayoutPracticeTests/Pods-FlexLayoutPracticeTests.release.xcconfig"; sourceTree = "<group>"; };
+		C4EDECE98EB0915074899B2F /* Pods-FlexLayoutPractice.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlexLayoutPractice.release.xcconfig"; path = "Target Support Files/Pods-FlexLayoutPractice/Pods-FlexLayoutPractice.release.xcconfig"; sourceTree = "<group>"; };
+		C996D9B4A80BF63BDAC314E2 /* Pods-FlexLayoutPractice-FlexLayoutPracticeUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlexLayoutPractice-FlexLayoutPracticeUITests.release.xcconfig"; path = "Target Support Files/Pods-FlexLayoutPractice-FlexLayoutPracticeUITests/Pods-FlexLayoutPractice-FlexLayoutPracticeUITests.release.xcconfig"; sourceTree = "<group>"; };
+		F8359120E1E693B509336472 /* Pods_FlexLayoutPracticeTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FlexLayoutPracticeTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +60,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				13EA013E27617C27A26FA967 /* Pods_FlexLayoutProactice.framework in Frameworks */,
+				13EA013E27617C27A26FA967 /* Pods_FlexLayoutPractice.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -68,7 +68,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CEDCDF19786CBAA407ED71C2 /* Pods_FlexLayoutProacticeTests.framework in Frameworks */,
+				CEDCDF19786CBAA407ED71C2 /* Pods_FlexLayoutPracticeTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -76,7 +76,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6407C4D35DCE419FBC84D72D /* Pods_FlexLayoutProactice_FlexLayoutProacticeUITests.framework in Frameworks */,
+				6407C4D35DCE419FBC84D72D /* Pods_FlexLayoutPractice_FlexLayoutPracticeUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -86,9 +86,9 @@
 		000A54BE2CAED94300FBC1AF = {
 			isa = PBXGroup;
 			children = (
-				000A54C92CAED94300FBC1AF /* FlexLayoutProactice */,
-				000A54DA2CAED94400FBC1AF /* FlexLayoutProacticeTests */,
-				000A54E42CAED94400FBC1AF /* FlexLayoutProacticeUITests */,
+				000A54C92CAED94300FBC1AF /* FlexLayoutPractice */,
+				000A54DA2CAED94400FBC1AF /* FlexLayoutPracticeTests */,
+				000A54E42CAED94400FBC1AF /* FlexLayoutPracticeUITests */,
 				000A54C82CAED94300FBC1AF /* Products */,
 				1F2E2C236005183FD1526990 /* Pods */,
 				6B0C62F4623C281B5659A6E6 /* Frameworks */,
@@ -98,14 +98,14 @@
 		000A54C82CAED94300FBC1AF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				000A54C72CAED94300FBC1AF /* FlexLayoutProactice.app */,
-				000A54D72CAED94400FBC1AF /* FlexLayoutProacticeTests.xctest */,
-				000A54E12CAED94400FBC1AF /* FlexLayoutProacticeUITests.xctest */,
+				000A54C72CAED94300FBC1AF /* FlexLayoutPractice.app */,
+				000A54D72CAED94400FBC1AF /* FlexLayoutPracticeTests.xctest */,
+				000A54E12CAED94400FBC1AF /* FlexLayoutPracticeUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		000A54C92CAED94300FBC1AF /* FlexLayoutProactice */ = {
+		000A54C92CAED94300FBC1AF /* FlexLayoutPractice */ = {
 			isa = PBXGroup;
 			children = (
 				0001977A2CAEF8D9007FF404 /* LaunchScreen.storyboard */,
@@ -115,32 +115,32 @@
 				0001972E2CAEE37D007FF404 /* AppDelegate.swift */,
 				000197302CAEE384007FF404 /* SceneDelegate.swift */,
 			);
-			path = FlexLayoutProactice;
+			path = FlexLayoutPractice;
 			sourceTree = "<group>";
 		};
-		000A54DA2CAED94400FBC1AF /* FlexLayoutProacticeTests */ = {
+		000A54DA2CAED94400FBC1AF /* FlexLayoutPracticeTests */ = {
 			isa = PBXGroup;
 			children = (
 			);
-			path = FlexLayoutProacticeTests;
+			path = FlexLayoutPracticeTests;
 			sourceTree = "<group>";
 		};
-		000A54E42CAED94400FBC1AF /* FlexLayoutProacticeUITests */ = {
+		000A54E42CAED94400FBC1AF /* FlexLayoutPracticeUITests */ = {
 			isa = PBXGroup;
 			children = (
 			);
-			path = FlexLayoutProacticeUITests;
+			path = FlexLayoutPracticeUITests;
 			sourceTree = "<group>";
 		};
 		1F2E2C236005183FD1526990 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				676265ED8FECAED2193B6C12 /* Pods-FlexLayoutProactice.debug.xcconfig */,
-				C4EDECE98EB0915074899B2F /* Pods-FlexLayoutProactice.release.xcconfig */,
-				4A30754CA6E1B6130E3BD607 /* Pods-FlexLayoutProactice-FlexLayoutProacticeUITests.debug.xcconfig */,
-				C996D9B4A80BF63BDAC314E2 /* Pods-FlexLayoutProactice-FlexLayoutProacticeUITests.release.xcconfig */,
-				8A976FB054C1FAAB0ADA591D /* Pods-FlexLayoutProacticeTests.debug.xcconfig */,
-				C035E727249D3966FB5F4BFE /* Pods-FlexLayoutProacticeTests.release.xcconfig */,
+				676265ED8FECAED2193B6C12 /* Pods-FlexLayoutPractice.debug.xcconfig */,
+				C4EDECE98EB0915074899B2F /* Pods-FlexLayoutPractice.release.xcconfig */,
+				4A30754CA6E1B6130E3BD607 /* Pods-FlexLayoutPractice-FlexLayoutPracticeUITests.debug.xcconfig */,
+				C996D9B4A80BF63BDAC314E2 /* Pods-FlexLayoutPractice-FlexLayoutPracticeUITests.release.xcconfig */,
+				8A976FB054C1FAAB0ADA591D /* Pods-FlexLayoutPracticeTests.debug.xcconfig */,
+				C035E727249D3966FB5F4BFE /* Pods-FlexLayoutPracticeTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -148,9 +148,9 @@
 		6B0C62F4623C281B5659A6E6 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				2D92DE8A279995D3963427EB /* Pods_FlexLayoutProactice.framework */,
-				3BB8ECCA7733B17A85538E73 /* Pods_FlexLayoutProactice_FlexLayoutProacticeUITests.framework */,
-				F8359120E1E693B509336472 /* Pods_FlexLayoutProacticeTests.framework */,
+				2D92DE8A279995D3963427EB /* Pods_FlexLayoutPractice.framework */,
+				3BB8ECCA7733B17A85538E73 /* Pods_FlexLayoutPractice_FlexLayoutPracticeUITests.framework */,
+				F8359120E1E693B509336472 /* Pods_FlexLayoutPracticeTests.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -158,9 +158,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		000A54C62CAED94300FBC1AF /* FlexLayoutProactice */ = {
+		000A54C62CAED94300FBC1AF /* FlexLayoutPractice */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 000A54EB2CAED94400FBC1AF /* Build configuration list for PBXNativeTarget "FlexLayoutProactice" */;
+			buildConfigurationList = 000A54EB2CAED94400FBC1AF /* Build configuration list for PBXNativeTarget "FlexLayoutPractice" */;
 			buildPhases = (
 				C69ADB6D056381ED9C4C4ED4 /* [CP] Check Pods Manifest.lock */,
 				000A54C32CAED94300FBC1AF /* Sources */,
@@ -172,14 +172,14 @@
 			);
 			dependencies = (
 			);
-			name = FlexLayoutProactice;
-			productName = FlexLayoutProactice;
-			productReference = 000A54C72CAED94300FBC1AF /* FlexLayoutProactice.app */;
+			name = FlexLayoutPractice;
+			productName = FlexLayoutPractice;
+			productReference = 000A54C72CAED94300FBC1AF /* FlexLayoutPractice.app */;
 			productType = "com.apple.product-type.application";
 		};
-		000A54D62CAED94400FBC1AF /* FlexLayoutProacticeTests */ = {
+		000A54D62CAED94400FBC1AF /* FlexLayoutPracticeTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 000A54EE2CAED94400FBC1AF /* Build configuration list for PBXNativeTarget "FlexLayoutProacticeTests" */;
+			buildConfigurationList = 000A54EE2CAED94400FBC1AF /* Build configuration list for PBXNativeTarget "FlexLayoutPracticeTests" */;
 			buildPhases = (
 				B9F3278ED9DAEA272774F2BE /* [CP] Check Pods Manifest.lock */,
 				000A54D32CAED94400FBC1AF /* Sources */,
@@ -191,14 +191,14 @@
 			dependencies = (
 				000A54D92CAED94400FBC1AF /* PBXTargetDependency */,
 			);
-			name = FlexLayoutProacticeTests;
-			productName = FlexLayoutProacticeTests;
-			productReference = 000A54D72CAED94400FBC1AF /* FlexLayoutProacticeTests.xctest */;
+			name = FlexLayoutPracticeTests;
+			productName = FlexLayoutPracticeTests;
+			productReference = 000A54D72CAED94400FBC1AF /* FlexLayoutPracticeTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		000A54E02CAED94400FBC1AF /* FlexLayoutProacticeUITests */ = {
+		000A54E02CAED94400FBC1AF /* FlexLayoutPracticeUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 000A54F12CAED94400FBC1AF /* Build configuration list for PBXNativeTarget "FlexLayoutProacticeUITests" */;
+			buildConfigurationList = 000A54F12CAED94400FBC1AF /* Build configuration list for PBXNativeTarget "FlexLayoutPracticeUITests" */;
 			buildPhases = (
 				5928F7AA59E9745CD1E0AC25 /* [CP] Check Pods Manifest.lock */,
 				000A54DD2CAED94400FBC1AF /* Sources */,
@@ -211,9 +211,9 @@
 			dependencies = (
 				000A54E32CAED94400FBC1AF /* PBXTargetDependency */,
 			);
-			name = FlexLayoutProacticeUITests;
-			productName = FlexLayoutProacticeUITests;
-			productReference = 000A54E12CAED94400FBC1AF /* FlexLayoutProacticeUITests.xctest */;
+			name = FlexLayoutPracticeUITests;
+			productName = FlexLayoutPracticeUITests;
+			productReference = 000A54E12CAED94400FBC1AF /* FlexLayoutPracticeUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -240,7 +240,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 000A54C22CAED94300FBC1AF /* Build configuration list for PBXProject "FlexLayoutProactice" */;
+			buildConfigurationList = 000A54C22CAED94300FBC1AF /* Build configuration list for PBXProject "FlexLayoutPractice" */;
 			compatibilityVersion = "Xcode 15.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -254,9 +254,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				000A54C62CAED94300FBC1AF /* FlexLayoutProactice */,
-				000A54D62CAED94400FBC1AF /* FlexLayoutProacticeTests */,
-				000A54E02CAED94400FBC1AF /* FlexLayoutProacticeUITests */,
+				000A54C62CAED94300FBC1AF /* FlexLayoutPractice */,
+				000A54D62CAED94400FBC1AF /* FlexLayoutPracticeTests */,
+				000A54E02CAED94400FBC1AF /* FlexLayoutPracticeUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -293,15 +293,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-FlexLayoutProactice-FlexLayoutProacticeUITests/Pods-FlexLayoutProactice-FlexLayoutProacticeUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-FlexLayoutPractice-FlexLayoutPracticeUITests/Pods-FlexLayoutPractice-FlexLayoutPracticeUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-FlexLayoutProactice-FlexLayoutProacticeUITests/Pods-FlexLayoutProactice-FlexLayoutProacticeUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-FlexLayoutPractice-FlexLayoutPracticeUITests/Pods-FlexLayoutPractice-FlexLayoutPracticeUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-FlexLayoutProactice-FlexLayoutProacticeUITests/Pods-FlexLayoutProactice-FlexLayoutProacticeUITests-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-FlexLayoutPractice-FlexLayoutPracticeUITests/Pods-FlexLayoutPractice-FlexLayoutPracticeUITests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		5928F7AA59E9745CD1E0AC25 /* [CP] Check Pods Manifest.lock */ = {
@@ -319,7 +319,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-FlexLayoutProactice-FlexLayoutProacticeUITests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-FlexLayoutPractice-FlexLayoutPracticeUITests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -332,15 +332,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-FlexLayoutProactice/Pods-FlexLayoutProactice-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-FlexLayoutPractice/Pods-FlexLayoutPractice-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-FlexLayoutProactice/Pods-FlexLayoutProactice-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-FlexLayoutPractice/Pods-FlexLayoutPractice-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-FlexLayoutProactice/Pods-FlexLayoutProactice-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-FlexLayoutPractice/Pods-FlexLayoutPractice-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		B9F3278ED9DAEA272774F2BE /* [CP] Check Pods Manifest.lock */ = {
@@ -358,7 +358,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-FlexLayoutProacticeTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-FlexLayoutPracticeTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -380,7 +380,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-FlexLayoutProactice-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-FlexLayoutPractice-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -420,12 +420,12 @@
 /* Begin PBXTargetDependency section */
 		000A54D92CAED94400FBC1AF /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 000A54C62CAED94300FBC1AF /* FlexLayoutProactice */;
+			target = 000A54C62CAED94300FBC1AF /* FlexLayoutPractice */;
 			targetProxy = 000A54D82CAED94400FBC1AF /* PBXContainerItemProxy */;
 		};
 		000A54E32CAED94400FBC1AF /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 000A54C62CAED94300FBC1AF /* FlexLayoutProactice */;
+			target = 000A54C62CAED94300FBC1AF /* FlexLayoutPractice */;
 			targetProxy = 000A54E22CAED94400FBC1AF /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -563,19 +563,19 @@
 		};
 		000A54EC2CAED94400FBC1AF /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 676265ED8FECAED2193B6C12 /* Pods-FlexLayoutProactice.debug.xcconfig */;
+			baseConfigurationReference = 676265ED8FECAED2193B6C12 /* Pods-FlexLayoutPractice.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"FlexLayoutProactice/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"FlexLayoutPractice/Preview Content\"";
 				DEVELOPMENT_TEAM = QHUUD83226;
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = FlexLayoutProactice/Info.plist;
+				INFOPLIST_FILE = FlexLayoutPractice/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = NO;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = NO;
 				INFOPLIST_KEY_UILaunchScreen_Generation = NO;
@@ -588,7 +588,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.juhyang.FlexLayoutProactice;
+				PRODUCT_BUNDLE_IDENTIFIER = com.juhyang.FlexLayoutPractice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -599,19 +599,19 @@
 		};
 		000A54ED2CAED94400FBC1AF /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C4EDECE98EB0915074899B2F /* Pods-FlexLayoutProactice.release.xcconfig */;
+			baseConfigurationReference = C4EDECE98EB0915074899B2F /* Pods-FlexLayoutPractice.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"FlexLayoutProactice/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"FlexLayoutPractice/Preview Content\"";
 				DEVELOPMENT_TEAM = QHUUD83226;
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = FlexLayoutProactice/Info.plist;
+				INFOPLIST_FILE = FlexLayoutPractice/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = NO;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = NO;
 				INFOPLIST_KEY_UILaunchScreen_Generation = NO;
@@ -624,7 +624,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.juhyang.FlexLayoutProactice;
+				PRODUCT_BUNDLE_IDENTIFIER = com.juhyang.FlexLayoutPractice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -634,7 +634,7 @@
 		};
 		000A54EF2CAED94400FBC1AF /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8A976FB054C1FAAB0ADA591D /* Pods-FlexLayoutProacticeTests.debug.xcconfig */;
+			baseConfigurationReference = 8A976FB054C1FAAB0ADA591D /* Pods-FlexLayoutPracticeTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -643,18 +643,18 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.juhyang.FlexLayoutProacticeTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.juhyang.FlexLayoutPracticeTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FlexLayoutProactice.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FlexLayoutProactice";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FlexLayoutPractice.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FlexLayoutPractice";
 			};
 			name = Debug;
 		};
 		000A54F02CAED94400FBC1AF /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C035E727249D3966FB5F4BFE /* Pods-FlexLayoutProacticeTests.release.xcconfig */;
+			baseConfigurationReference = C035E727249D3966FB5F4BFE /* Pods-FlexLayoutPracticeTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -663,55 +663,55 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.juhyang.FlexLayoutProacticeTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.juhyang.FlexLayoutPracticeTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FlexLayoutProactice.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FlexLayoutProactice";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FlexLayoutPractice.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FlexLayoutPractice";
 			};
 			name = Release;
 		};
 		000A54F22CAED94400FBC1AF /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4A30754CA6E1B6130E3BD607 /* Pods-FlexLayoutProactice-FlexLayoutProacticeUITests.debug.xcconfig */;
+			baseConfigurationReference = 4A30754CA6E1B6130E3BD607 /* Pods-FlexLayoutPractice-FlexLayoutPracticeUITests.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = QHUUD83226;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.juhyang.FlexLayoutProacticeUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.juhyang.FlexLayoutPracticeUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = FlexLayoutProactice;
+				TEST_TARGET_NAME = FlexLayoutPractice;
 			};
 			name = Debug;
 		};
 		000A54F32CAED94400FBC1AF /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C996D9B4A80BF63BDAC314E2 /* Pods-FlexLayoutProactice-FlexLayoutProacticeUITests.release.xcconfig */;
+			baseConfigurationReference = C996D9B4A80BF63BDAC314E2 /* Pods-FlexLayoutPractice-FlexLayoutPracticeUITests.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = QHUUD83226;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.juhyang.FlexLayoutProacticeUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.juhyang.FlexLayoutPracticeUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = FlexLayoutProactice;
+				TEST_TARGET_NAME = FlexLayoutPractice;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		000A54C22CAED94300FBC1AF /* Build configuration list for PBXProject "FlexLayoutProactice" */ = {
+		000A54C22CAED94300FBC1AF /* Build configuration list for PBXProject "FlexLayoutPractice" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				000A54E92CAED94400FBC1AF /* Debug */,
@@ -720,7 +720,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		000A54EB2CAED94400FBC1AF /* Build configuration list for PBXNativeTarget "FlexLayoutProactice" */ = {
+		000A54EB2CAED94400FBC1AF /* Build configuration list for PBXNativeTarget "FlexLayoutPractice" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				000A54EC2CAED94400FBC1AF /* Debug */,
@@ -729,7 +729,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		000A54EE2CAED94400FBC1AF /* Build configuration list for PBXNativeTarget "FlexLayoutProacticeTests" */ = {
+		000A54EE2CAED94400FBC1AF /* Build configuration list for PBXNativeTarget "FlexLayoutPracticeTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				000A54EF2CAED94400FBC1AF /* Debug */,
@@ -738,7 +738,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		000A54F12CAED94400FBC1AF /* Build configuration list for PBXNativeTarget "FlexLayoutProacticeUITests" */ = {
+		000A54F12CAED94400FBC1AF /* Build configuration list for PBXNativeTarget "FlexLayoutPracticeUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				000A54F22CAED94400FBC1AF /* Debug */,
